@@ -32,7 +32,7 @@ Links to online certifications and project details
 1. Install my-project with npm
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/piyushgoyal1235/Portfolio.git
 
 ```
 
